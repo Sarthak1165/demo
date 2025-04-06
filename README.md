@@ -1,4 +1,5 @@
 # demo
 my first repository.
 
-author - Sarthak Gupta
+author - Sarthak Gupta 
+(web developer)
